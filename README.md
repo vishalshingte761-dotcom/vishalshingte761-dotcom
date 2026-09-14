@@ -1,3 +1,4 @@
+💫 About Me:
 🔨 I’m currently building Sahyadri Pool & Trip — a full-stack travel platform connecting travelers with trips, stays and local travel experiences across India.<br>🤝 I’m open to collaborating on Java, Spring Boot, Full-Stack and real-world web application projects.<br>🤝 I’m always open to learning from experienced developers and improving my software engineering skills.<br>🌱 I’m currently deepening my knowledge of Java, Spring Boot, REST APIs, databases, system design and modern web development.<br>💬 Ask me about Java, Spring Boot, REST APIs, Full-Stack Development, DSA and my Sahyadri Pool & Trip project.<br><br>⚡ Fun fact: I enjoy turning ideas into working applications and learning new technologies by building real projects.
 
 
